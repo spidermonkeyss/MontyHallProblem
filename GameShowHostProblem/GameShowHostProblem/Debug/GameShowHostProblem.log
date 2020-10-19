@@ -1,0 +1,4 @@
+﻿  GameShowHostProblem.cpp
+c:\users\andre\documents\visual studio 2017\projects\gameshowhostproblem\gameshowhostproblem\gameshowhostproblem.cpp(114): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\andre\documents\visual studio 2017\projects\gameshowhostproblem\gameshowhostproblem\gameshowhostproblem.cpp(229): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GameShowHostProblem.vcxproj -> C:\Users\andre\Documents\Visual Studio 2017\Projects\GameShowHostProblem\Debug\GameShowHostProblem.exe
